@@ -36,7 +36,7 @@ To get started, follow these steps:
    ```bash
    pip install -r requirements.txt
    ```
-  (Note: As of now, no requirements.txt file is present, but you can add any dependencies in the future.)
+   (Note: As of now, no requirements.txt file is present, but you can add any dependencies in the future.)
 
 3. **Start development**:
    Begin the development of the main game logic, user interface, and any additional components needed to complete the game.
