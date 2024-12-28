@@ -32,15 +32,14 @@ To get started, follow these steps:
    ```
 
 2. **Install dependencies**:
-If there are any required dependencies (such as libraries), ensure they are installed by running:
-
-```bash
-pip install -r requirements.txt
-```
-(Note: As of now, no requirements.txt file is present, but you can add any dependencies in the future.)
+   If there are any required dependencies (such as libraries), ensure they are installed by running:
+   ```bash
+   pip install -r requirements.txt
+   ```
+  (Note: As of now, no requirements.txt file is present, but you can add any dependencies in the future.)
 
 3. **Start development**:
-Begin the development of the main game logic, user interface, and any additional components needed to complete the game.
+   Begin the development of the main game logic, user interface, and any additional components needed to complete the game.
 
 ## Future Development
 Currently, there is no main.py or game.py file in place. The next steps include:
