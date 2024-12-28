@@ -8,6 +8,8 @@ The project is currently in the initial setup phase and contains the following f
 
 ### Root Directory
 - **Assignment.pdf**: The assignment description file outlining the requirements and objectives of the project.
+- **README.md**: This file, which provides an overview of the project and instructions for setting it up.
+
   
 ### Starter Kit Folder (`Starter Kit-20200615T083047Z-001/Starter Kit`)
 - **Bots (2).py**: Python file for implementing logic related to the B.O.T.S game.
